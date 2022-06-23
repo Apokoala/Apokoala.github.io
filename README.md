@@ -2,7 +2,7 @@
 
 ![Apokoala](https://i.redd.it/oa26pu828lx71.jpg)
 
-###Growth Mindset
+## Growth Mindset
 
 What I learned about the growth mindset is that it requires effort. It seems that the dichotomy of a "growth" mindset is a juxtaposition of what is natural: "a fixed mindset." For instance I find myself guilty of several of the tendencies of the fixed.
 
@@ -10,7 +10,7 @@ I know it's cheesy but I think I might get some sort of doo-dad that has "growth
 
 This is a place to take notes...i dont have much here because I just started and am a bit late to the coursework (3 days)...uh oh!
 
-###Learning Markdown
+## Learning Markdown
 
 So the most important thing I learned about markdown is "quoting code"
 
