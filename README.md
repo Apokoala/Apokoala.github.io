@@ -19,8 +19,13 @@ This is done by using the the 'strike' which is the primary to the tilde~~ to th
 ```
 When used it looks like this!
 ```
-Which is pretty cool. We can also do things like:
+Which is pretty cool.
+Something similar is blocktext:
+> which
+> looks like
+> this
 
+ We can also do things like:
 ~~strikethrough~~ using double tildes at the lead and follow of a statement. Additionally, **bold** using double lead and follow asterix __italic__
 
 More information about syntax is available [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
