@@ -4,9 +4,13 @@
 
 ## Growth Mindset
 
-What I learned about the growth mindset is that it requires effort. It seems that the dichotomy of a "growth" mindset is a juxtaposition of what is natural: "a fixed mindset." For instance I find myself guilty of several of the tendencies of the fixed.
+What I learned about the growth mindset is that it requires effort. It seems that the dichotomy of a "growth" mindset is a juxtaposition of what is natural: "a fixed mindset." For instance, I find myself guilty of several of the tendencies of the fixed mindset...actually, all of them.
 
-I know it's cheesy but I think I might get some sort of doo-dad that has "growth mindset" on it...maybe they have rubber ducks that have them embossed on them. Or maybe I'll include some of the aspects of it in a mantra or something similar. 
+I know it's cheesy but I think I might get some sort of doo-dad that has "growth mindset" on it...maybe they have rubber ducks that have them embossed on them. Or maybe I'll include some of the aspects of it in a mantra or something similar.
+
+__edit__: I couldn't find one but i could find Captain Quack Sparrow
+![Captain Quack Sparrow](https://m.media-amazon.com/images/I/61MbPW--ONL._AC_SX466_.jpg)
+He is already in the cart.
 
 This is a place to take notes...i dont have much here because I just started and am a bit late to the coursework (3 days)...uh oh!
 
