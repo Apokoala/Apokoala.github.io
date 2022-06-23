@@ -10,6 +10,7 @@ I know it's cheesy but I think I might get some sort of doo-dad that has "growth
 
 __edit__: I couldn't find one but i could find Captain Quack Sparrow
 ![Captain Quack Sparrow](https://m.media-amazon.com/images/I/61MbPW--ONL._AC_SX466_.jpg)
+
 He is already in the cart.
 
 This is a place to take notes...i dont have much here because I just started and am a bit late to the coursework (3 days)...uh oh!
