@@ -25,8 +25,8 @@ Something similar is blocktext:
 > looks like
 > this
 
- We can also do things like:
-~~strikethrough~~ using double tildes at the lead and follow of a statement. Additionally, **bold** using double lead and follow asterix __italic__
+ We can also do things like;
+~~strikethrough~~ using double tildes at the lead and follow of a statement, **bold** using double lead and follow asterix, and __italic__ using underscores!
 
 More information about syntax is available [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
