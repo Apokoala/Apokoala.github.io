@@ -33,3 +33,43 @@ Something similar is blocktext:
 
 More information about syntax is available [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+## Command Line
+
+>Jesus Christ it's Jason Bourne...again shell, or Bash
+>you can find out which shell you are using by using the command:
+>user@xxxx: echo $SHELL
+
+### Where are you:
+>user@bash: pwd
+This stand for Print Working Directory and will tell you where you are.
+
+### What is here:
+>user@bash: ls
+This stands for List and will list the contents of the directory you are in.
+>ls//option//location is the structure for this command
+
+### Absolute and relative paths:
+You can give pathing relative to the root directory or relative to where you are within the subdirectories. 
+
+### More on paths:
+>~(Tilde) this is a shortcut for your home direcotory
+>.(dot) this is your current directory
+>.. (dot dot) this is your parent directory (the directory containing the one you're in)
+
+### Moving around:
+cd allows you to move around, dot dot for parent directory or you can list a subdirectory of the directory you are in. You can use tab to complete a sub-directory listing as long as what you've entered is unique.
+
+### Moving around with quotes
+Quotes allow you to move to a directory if you know its absolute name
+
+>user@bash: cd 'farfignuten'
+>user@bash: pwd
+>/home/gaz/docs/whatisthisfor/farfignuten
+
+A trick here to nullify spaces in order for them to not be a command is the BACK SLASH
+
+>user@bash: cd farfignuten\ socks
+>user@bash: pwd
+>/home/gaz/docs/whatisthisfor/farfignuten socks
+
+## More information on linux commands can be found ![here](https://ryanstutorials.net/linuxtutorial/filemanipulation.php)
