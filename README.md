@@ -96,5 +96,5 @@ You can also clone an existing Git repo
 ### Checking File Status
 >$ git status
 
-## Pushing Changes
+### Pushing Changes
 >$ git push origin master
