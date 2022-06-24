@@ -73,3 +73,28 @@ A trick here to nullify spaces in order for them to not be a command is the BACK
 >/home/gaz/docs/whatisthisfor/farfignuten socks
 
 ## More information on linux commands can be found [here](https://ryanstutorials.net/linuxtutorial/filemanipulation.php)
+
+
+## Very interesting stuff on GIT
+[Git](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
+
+### Getting started
+
+First switch to your target directory using
+> cd test
+Then initial 'init' using the git init command
+>$ git init
+
+Now you are going to start tracking this repo by __BEING WITHIN THE DIRECTORY OF THE REPOSITORY__
+>$ git add *.c
+>$ git add LICENSE
+>$ git commit -m "message"
+
+You can also clone an existing Git repo
+>$ git clone https://github.com/test
+
+### Checking File Status
+>$ git status
+
+## Pushing Changes
+>$ git push origin master
