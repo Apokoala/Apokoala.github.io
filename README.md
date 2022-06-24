@@ -1,5 +1,3 @@
-# Apokoala.github.io
-
 [![Apokoala-github-io.png](https://i.postimg.cc/7h9LkMgX/Apokoala-github-io.png)](https://postimg.cc/fS3s7dq0)
 
 ## Growth Mindset
