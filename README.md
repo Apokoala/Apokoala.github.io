@@ -72,4 +72,4 @@ A trick here to nullify spaces in order for them to not be a command is the BACK
 >user@bash: pwd
 >/home/gaz/docs/whatisthisfor/farfignuten socks
 
-## More information on linux commands can be found ![here](https://ryanstutorials.net/linuxtutorial/filemanipulation.php)
+## More information on linux commands can be found [here](https://ryanstutorials.net/linuxtutorial/filemanipulation.php)
