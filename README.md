@@ -84,7 +84,7 @@ Then initial 'init' using the git init command
 >$ git init
 
 Now you are going to start tracking this repo by __BEING WITHIN THE DIRECTORY OF THE REPOSITORY__
->$ git add *.c
+>$ git add .c
 >$ git add LICENSE
 >$ git commit -m "message"
 
@@ -97,14 +97,4 @@ You can also clone an existing Git repo
 ### Pushing Changes
 >$ git push origin master
 
-## HTML Wireframe
 
-In order to make good HTML wireframes you have to conform to three principles:
-
->maintain clarity
->gain user confidence
->simplicity is key
-
-Create research --> User flow
-
-Wireframing within the user flow contains the structure of your entire site and should be focused on the user experience as well as the functionality you are trying to provide. While wireframing is important it's best to add some details to your wireframes and start testing. 
