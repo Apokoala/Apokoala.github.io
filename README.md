@@ -1,6 +1,6 @@
 # Apokoala.github.io
 
-![Apokoala](https://i.redd.it/oa26pu828lx71.jpg)
+![Apokoala](https://imgur.com/a/BUCznOW)
 
 ## Growth Mindset
 
