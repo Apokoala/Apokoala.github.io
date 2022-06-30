@@ -2,6 +2,22 @@
 
 ## Growth Mindset
 
+Hello Everyone! My name is Michael Gazaway, but "Gaz" seems to have been my name for as long as I can remember. I live in Evans, Georgia and I am about to turn 38 years old in July =/. I actually started in IT when I was in college, then I ended up in the Marines. Spent the better part of two decades in iraq and afghanistan. Now I work for the NSA as a dataflow engineer: I take in data from the service elements (USMC, ARMY, AF, NAVY, ETC) and a rectify it and transport it within the Agency for use in various repos. This is more system's engineering and doodling (nifi is a JVE environment that visualizes data so you literally draw the dataflow and then that dataflow actually exists) than not. I have dealt with some expression languages within other programs like NiFi or SQL. I'm hoping to be able to use this training to take a step forward within the IC and actually contribute to building some of the community tools and widgets that we use AND learn how to create tools, portals, etc that can help where I am currently.
+
+Here is a list of my daily learnings and experiences in this course
+
+## Table of contents
+
+[Day1](https://apokoala.github.io/wackywavyinflatablearmimporium/day1)
+[Day2](https://apokoala.github.io/wackywavyinflatablearmimporium/day2)
+[Day3](https://apokoala.github.io/wackywavyinflatablearmimporium/day3)
+[Day4](https://apokoala.github.io/wackywavyinflatablearmimporium/day4)
+[Day5](https://apokoala.github.io/wackywavyinflatablearmimporium/day5)
+[Day6](https://apokoala.github.io/wackywavyinflatablearmimporium/day6)
+[Day7](https://apokoala.github.io/wackywavyinflatablearmimporium/day7)
+[Day8](https://apokoala.github.io/wackywavyinflatablearmimporium/day8)
+
+
 What I learned about the growth mindset is that it requires effort. It seems that the dichotomy of a "growth" mindset is a juxtaposition of what is natural: "a fixed mindset." For instance, I find myself guilty of several of the tendencies of the fixed mindset...actually, all of them.
 
 I know it's cheesy but I think I might get some sort of doo-dad that has "growth mindset" on it...maybe they have rubber ducks that have them embossed on them. Or maybe I'll include some of the aspects of it in a mantra or something similar.
