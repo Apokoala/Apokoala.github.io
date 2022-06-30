@@ -6,14 +6,14 @@ Here is a list of my daily learnings and experiences in this course
 
 ## Table of contents:
 
-Day1[here](https://apokoala.github.io/reading-notes/day1)
-Day2[here](https://apokoala.github.io/reading-notes/day2)
-Day3[here](https://apokoala.github.io/reading-notes/day3)
-Day4[here](https://apokoala.github.io/reading-notes/day4)
-Day5[here](https://apokoala.github.io/reading-notes/day5)
-Day6[here](https://apokoala.github.io/reading-notes/day6)
-Day7[here](https://apokoala.github.io/reading-notes/day7)
-Day8[here](https://apokoala.github.io/reading-notes/day8)
+Day1[here](https://apokoala.github.io/reading-notes/day1)<br/>
+Day2[here](https://apokoala.github.io/reading-notes/day2)<br/>
+Day3[here](https://apokoala.github.io/reading-notes/day3)<br/>
+Day4[here](https://apokoala.github.io/reading-notes/day4)<br/>
+Day5[here](https://apokoala.github.io/reading-notes/day5)<br/>
+Day6[here](https://apokoala.github.io/reading-notes/day6)<br/>
+Day7[here](https://apokoala.github.io/reading-notes/day7)<br/>
+Day8[here](https://apokoala.github.io/reading-notes/day8)<br/>
 
 
 
