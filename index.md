@@ -2,14 +2,14 @@
 
 ## Table of contents
 
-[Day1](https://apokoala.github.io/reading-notes/day1)
-[Day2](https://apokoala.github.io/reading-notes/day2)
-[Day3](https://apokoala.github.io/reading-notes/day3)
-[Day4](https://apokoala.github.io/reading-notes/day4)
-[Day5](https://apokoala.github.io/reading-notes/day5)
-[Day6](https://apokoala.github.io/reading-notes/day6)
-[Day7](https://apokoala.github.io/reading-notes/day7)
-[Day8](https://apokoala.github.io/reading-notes/day8)
+>[Day1](https://apokoala.github.io/reading-notes/day1)
+>[Day2](https://apokoala.github.io/reading-notes/day2)
+>[Day3](https://apokoala.github.io/reading-notes/day3)
+>[Day4](https://apokoala.github.io/reading-notes/day4)
+>[Day5](https://apokoala.github.io/reading-notes/day5)
+>[Day6](https://apokoala.github.io/reading-notes/day6)
+>[Day7](https://apokoala.github.io/reading-notes/day7)
+>[Day8](https://apokoala.github.io/reading-notes/day8)
 
 
 
