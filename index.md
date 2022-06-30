@@ -1,8 +1,10 @@
 ## Apokoala's Amazing Files of Awesome
 
+Hello Everyone! My name is Michael Gazaway, but "Gaz" seems to have been my name for as long as I can remember. I live in Evans, Georgia and I am about to turn 38 years old in July =/. I actually started in IT when I was in college, then I ended up in the Marines. Spent the better part of two decades in iraq and afghanistan. Now I work for the NSA as a dataflow engineer: I take in data from the service elements (USMC, ARMY, AF, NAVY, ETC) and a rectify it and transport it within the Agency for use in various repos. This is more system's engineering and doodling (nifi is a JVE environment that visualizes data so you literally draw the dataflow and then that dataflow actually exists) than not. I have dealt with some expression languages within other programs like NiFi or SQL. I'm hoping to be able to use this training to take a step forward within the IC and actually contribute to building some of the community tools and widgets that we use AND learn how to create tools, portals, etc that can help where I am currently.
 
+Here is a list of my daily learnings and experiences in this course
 
-## Table of contents
+## Table of contents:
 
 Day1[here](https://apokoala.github.io/reading-notes/day1)
 Day2[here](https://apokoala.github.io/reading-notes/day2)
