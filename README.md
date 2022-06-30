@@ -8,14 +8,14 @@ Here is a list of my daily learnings and experiences in this course
 
 ## Table of contents
 
-[Day1](https://apokoala.github.io/wackywavyinflatablearmimporium/day1)
-[Day2](https://apokoala.github.io/wackywavyinflatablearmimporium/day2)
-[Day3](https://apokoala.github.io/wackywavyinflatablearmimporium/day3)
-[Day4](https://apokoala.github.io/wackywavyinflatablearmimporium/day4)
-[Day5](https://apokoala.github.io/wackywavyinflatablearmimporium/day5)
-[Day6](https://apokoala.github.io/wackywavyinflatablearmimporium/day6)
-[Day7](https://apokoala.github.io/wackywavyinflatablearmimporium/day7)
-[Day8](https://apokoala.github.io/wackywavyinflatablearmimporium/day8)
+[Day1](https://apokoala.github.io/reading-notes/day1)
+[Day2](https://apokoala.github.io/reading-notes/day2)
+[Day3](https://apokoala.github.io/reading-notes/day3)
+[Day4](https://apokoala.github.io/reading-notes/day4)
+[Day5](https://apokoala.github.io/reading-notes/day5)
+[Day6](https://apokoala.github.io/reading-notes/day6)
+[Day7](https://apokoala.github.io/reading-notes/day7)
+[Day8](https://apokoala.github.io/reading-notes/day8)
 
 
 What I learned about the growth mindset is that it requires effort. It seems that the dichotomy of a "growth" mindset is a juxtaposition of what is natural: "a fixed mindset." For instance, I find myself guilty of several of the tendencies of the fixed mindset...actually, all of them.
