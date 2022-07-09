@@ -6,16 +6,35 @@ Hello Everyone! My name is Michael Gazaway, but "Gaz" seems to have been my name
 
 Here is a list of my daily learnings and experiences in this course
 
-## Table of contents
+## Table of contents (102 Code Fellows):
 
-[Day1](https://apokoala.github.io/reading-notes/day1)
-[Day2](https://apokoala.github.io/reading-notes/day2)
-[Day3](https://apokoala.github.io/reading-notes/day3)
-[Day4](https://apokoala.github.io/reading-notes/day4)
-[Day5](https://apokoala.github.io/reading-notes/day5)
-[Day6](https://apokoala.github.io/reading-notes/day6)
-[Day7](https://apokoala.github.io/reading-notes/day7)
-[Day8](https://apokoala.github.io/reading-notes/day8)
+Day1[here](https://apokoala.github.io/reading-notes/day1)<br/>
+Day2[here](https://apokoala.github.io/reading-notes/day2)<br/>
+Day3[here](https://apokoala.github.io/reading-notes/day3)<br/>
+Day4[here](https://apokoala.github.io/reading-notes/day4)<br/>
+Day5[here](https://apokoala.github.io/reading-notes/day5)<br/>
+Day6[here](https://apokoala.github.io/reading-notes/day6)<br/>
+Day7[here](https://apokoala.github.io/reading-notes/day7)<br/>
+Day8[here](https://apokoala.github.io/reading-notes/day8)<br/>
+
+## Table of contents (201 Code Fellows):
+
+Day1[here](https://apokoala.github.io/reading-notes/201_day1)<br/>
+Day2[here](https://apokoala.github.io/reading-notes/201_day2)<br/>
+Day3[here](https://apokoala.github.io/reading-notes/201_day3)<br/>
+Day4[here](https://apokoala.github.io/reading-notes/201_day4)<br/>
+Day5[here](https://apokoala.github.io/reading-notes/201_day5)<br/>
+Day6[here](https://apokoala.github.io/reading-notes/201_day6)<br/>
+Day7[here](https://apokoala.github.io/reading-notes/201_day7)<br/>
+Day8[here](https://apokoala.github.io/reading-notes/201_day8)<br/>
+Day9[here](https://apokoala.github.io/reading-notes/201_day9)<br/>
+Day10[here](https://apokoala.github.io/reading-notes/201_day10)<br/>
+Day11[here](https://apokoala.github.io/reading-notes/201_day11)<br/>
+Day12[here](https://apokoala.github.io/reading-notes/201_day12)<br/>
+Day13[here](https://apokoala.github.io/reading-notes/201_day13)<br/>
+Day14[here](https://apokoala.github.io/reading-notes/201_day14)<br/>
+Day15[here](https://apokoala.github.io/reading-notes/201_day15)<br/>
+
 
 
 What I learned about the growth mindset is that it requires effort. It seems that the dichotomy of a "growth" mindset is a juxtaposition of what is natural: "a fixed mindset." For instance, I find myself guilty of several of the tendencies of the fixed mindset...actually, all of them.
