@@ -54,3 +54,4 @@ Day15[here](https://apokoala.github.io/reading-notes/201_day15)<br/>
 ## Code 401 - Advance SOftware Development:
 
 [Read:Class01 Node Ecosystem](https://apokoala.github.io/reading-notes/401_class01)<br/>
+[Read:Class02 Express, NPM, TDD, CI/CD](https://apokoala.github.io/reading-notes/401_class02)<br/>
