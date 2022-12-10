@@ -66,6 +66,16 @@ A data structure is a way of organizing and storing data in a computer so that i
 
 > Why Big O
 
+Big O notation is a mathematical notation that is used to describe the performance or complexity of an algorithm. It provides a way to measure how the number of operations performed by an algorithm grows as the size of the input data increases.
+
+Big O notation is typically used to describe the worst-case performance of an algorithm, which is the maximum number of operations that the algorithm will need to perform for a given input size. For example, if an algorithm has a worst-case time complexity of O(n), this means that the number of operations performed by the algorithm grows linearly with the size of the input data. On the other hand, if an algorithm has a worst-case time complexity of O(n^2), this means that the number of operations performed by the algorithm grows quadratically with the size of the input data.
+
+Big O notation is often used to compare the relative performance of different algorithms for the same problem. For example, if one algorithm has a time complexity of O(n) and another algorithm has a time complexity of O(n^2), the O(n) algorithm will be faster for large input sizes because its growth rate is lower.
+
+Big O notation is also used to describe the space complexity of an algorithm, which is the amount of memory or storage required by the algorithm. For example, if an algorithm has a space complexity of O(1), this means that the amount of memory used by the algorithm does not depend on the size of the input data. On the other hand, if an algorithm has a space complexity of O(n), this means that the amount of memory used by the algorithm grows linearly with the size of the input data.
+
+Overall, Big O notation provides a way to measure and compare the performance and complexity of algorithms, which can help you choose the best algorithm for a particular problem.
+
 One of the most important things to consider when choosing a data structure is the operations that will be performed on the data. Different data structures are optimized for different operations, so it is important to choose a data structure that can efficiently support the operations that are required by the problem you are trying to solve. For example, if you need to frequently search for elements in a large collection of data, a hash table or binary search tree would be a good choice because these data structures provide efficient search algorithms. On the other hand, if you need to insert and delete elements in a dynamic collection of data, a linked list or dynamic array would be a better choice because these data structures support efficient insertion and deletion. By carefully considering the operations that will be performed on the data, you can choose a data structure that will provide the best performance and scalability for your problem.
 
 
