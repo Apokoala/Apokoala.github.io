@@ -58,3 +58,4 @@ Day15[here](https://apokoala.github.io/reading-notes/201_day15)<br/>
 
 
 [Read:Practice in the Terminal](https://apokoala.github.io/reading-notes/Practice_in_the_Terminal)<br/>
+[Read:Data Structures and Algorithms](https://apokoala.github.io/reading-notes/Data_structures_and_algorithms)<br/>
