@@ -55,3 +55,6 @@ Day15[here](https://apokoala.github.io/reading-notes/201_day15)<br/>
 
 [Read:Class01 Node Ecosystem](https://apokoala.github.io/reading-notes/401_class01)<br/>
 [Read:Class02 Express, NPM, TDD, CI/CD](https://apokoala.github.io/reading-notes/401_class02)<br/>
+
+
+[Read:Practice in the Terminal](https://apokoala.github.io/reading-notes/Practice_in_the_Terminal)<br/>
